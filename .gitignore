@@ -1,0 +1,4 @@
+secrets.yaml
+
+# # 모든 yaml 파일 무시
+# *.yaml
